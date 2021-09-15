@@ -1,4 +1,4 @@
-import { initializeApp } from "firebase";
+/*import { initializeApp } from "firebase";
 
 const app = initializeApp({
     apiKey: process.env.VUE_APP_FIREBASE_API_KEY,
@@ -11,3 +11,4 @@ const app = initializeApp({
 
 export const db = app.database();
 export const messagesRef = db.ref('messages');
+*/
